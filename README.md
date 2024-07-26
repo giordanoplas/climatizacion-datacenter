@@ -12,7 +12,7 @@
 <p align="center">
   <h3>Climatización Datacenter</h3>
 </p>
- - Este es un proyecto hecho en React(frontend) y NestJS(backend). Este hace interacción con una base de datos MySQL. Además muestra la temperatura y humedad en tiempo real de los diferentes datacenters almacenados en la base de datos. También muestras algunos gráficos diarios de los mismos.
+ - Este es un proyecto hecho en React(frontend) y NestJS(backend). Este hace interacción con una base de datos MySQL. Además muestra la temperatura y humedad en tiempo real de los diferentes datacenters almacenados en la base de datos. También muestra algunos gráficos diarios de los mismos.
 <p align="center">
    <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/cd76570d3152046b5cc74d603d47a5694646a5be/Bottom.svg" alt="Github Stats" />
 </p>
